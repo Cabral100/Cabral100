@@ -1,5 +1,5 @@
 # 👨‍💻 Lucas Cabral
-Estudante de ciência da computção em busca de estágio
+Estudante de ciência da computção em busca de estágio na área de computação
 
 Me chamo Lucas Cabral, tenho 20 anos e sou estudante de Ciências da Computação na FEI. Tenho experiência com diversas linguagens de programação, como Python, Java, C, JavaScript e React Native, além de MongoDB e SQL para banco de dados. Embora nunca tenha trabalhado em um emprego na área, estou em busca de um estágio para ganhar experiência prática e continuar aprendendo e me desenvolvendo como profissional.
 
