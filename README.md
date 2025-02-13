@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas Cabral
-Desenvolvedor em busca de estágio
+Estudante de ciência da computção em busca de estágio
 
-Me chamo Lucas Cabral, tenho 20 anos e sou estudante de Ciências da Computação na FEI. Tenho experiência com diversas linguagens de programação, como Python, Java, C, JavaScript e React Native. Embora nunca tenha trabalhado em um emprego na área, estou em busca de um estágio para ganhar experiência prática e continuar aprendendo e me desenvolvendo como profissional.
+Me chamo Lucas Cabral, tenho 20 anos e sou estudante de Ciências da Computação na FEI. Tenho experiência com diversas linguagens de programação, como Python, Java, C, JavaScript e React Native, além de MongoDB e SQL para banco de dados. Embora nunca tenha trabalhado em um emprego na área, estou em busca de um estágio para ganhar experiência prática e continuar aprendendo e me desenvolvendo como profissional.
 
 <p align="left">
     <a href="https://github.com/Cabral100?tab=repositories&sort=stargazers">
