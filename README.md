@@ -1,32 +1,27 @@
-<div align="center">
+# 👋 Hey, I'm Lucas Cabral
 
-# 👋 Olá, eu sou o Lucas Cabral
+🚀 **About me**
 
-Estudante de Ciência da Computação na FEI, apaixonado por tecnologia e desenvolvimento de software.
-Tenho experiência com Python, Java, C, JavaScript, TypeScript e React Native, além de bancos de dados
-como MongoDB e SQL. Estou sempre em busca de novos desafios para aprofundar meus conhecimentos e
-evoluir como desenvolvedor.
+Computer Science student at FEI, passionate about technology and software development. Experienced with Python, Java, C, JavaScript, TypeScript, and React Native, as well as databases like MongoDB and SQL. Always looking for new challenges to deepen my knowledge and grow as a developer.
 
-<a href="https://github.com/Cabral100?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Cabral100?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-</a>
-<a href="https://github.com/Cabral100?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/Cabral100?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-</a>
+<p align="left">
+    <a href="https://github.com/Cabral100?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total Stars" 
+            title="Total GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Cabral100?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+        />
+    </a>
+    <a href="https://github.com/Cabral100?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Cabral100?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
 
-</div>
-
-<br/>
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <p align="left">
   <img alt="HTML" title="HTML" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -41,9 +36,13 @@ evoluir como desenvolvedor.
   <img alt="MongoDB" title="MongoDB" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </p>
 
-### 📊 Estatísticas
+### 🔗 Links
 
-<p align="center">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=cabral100&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabral100&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<p align="left">
+    <a href="https://www.linkedin.com/in/lucas-cabral-003641287/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
